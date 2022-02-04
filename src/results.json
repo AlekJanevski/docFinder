@@ -1,0 +1,44 @@
+{
+  "doctors": [
+    {
+      "id": 0,
+      "name": "Univ. - Doz. Dr. Guido Dorner",
+      "specialty": "Augenarzt",
+      "portraitImage": "https://media.istockphoto.com/photos/portrait-of-a-doctor-picture-id92347250?k=20&m=92347250&s=612x612&w=0&h=RsbWyj485Bf1T6p2GvaZBQhRhGufqKWdRVdO0sdCcSA=",
+      "descriptionImages": {
+        "image1": "https://www.commonwealthfund.org/sites/default/files/empty%20clinic%20room_3x2_hires_3x2_hires.jpg",
+        "image2": "https://www.pennmedicine.org/-/media/images/patient%20care/provider%20and%20patient/woman_at_doctor_office.ashx",
+        "image3": "https://static01.nyt.com/images/2012/05/31/science/31chen/31chen-tmagArticle.jpg"
+      },
+      "locationDistance": "1,8",
+      "locationAddress": "Wurzburggasse 45, 1130 Wien",
+      "categories": [
+        "Untersuchung",
+        "Beratung",
+        "Augenlasern",
+        "Untersuchung",
+        "Augenlasern"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Priv. - Doz. Dr. Christoph Mitsch",
+      "specialty": "Augenarzt",
+      "portraitImage": "https://images.fineartamerica.com/images-medium-large-5/male-doctor-smiling-towards-camera-science-photo-library.jpg",
+      "descriptionImages": {},
+      "locationDistance": "0,5",
+      "locationAddress": "Hietzinger Hauptstrase 22, 1130 Wien",
+      "categories": []
+    },
+    {
+      "id": 2,
+      "name": "OA Dr.Michaela Brandsetter",
+      "specialty": "Augenarzt",
+      "portraitImage": "https://st2.depositphotos.com/3889193/8319/i/600/depositphotos_83195332-stock-photo-smiling-female-doctor-holding-medical.jpg",
+      "descriptionImages": {},
+      "locationDistance": "1",
+      "locationAddress": "Hietzinger Hauptstrase 67/11, 1130 Wien",
+      "categories": []
+    }
+  ]
+}
